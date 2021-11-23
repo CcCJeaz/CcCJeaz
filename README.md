@@ -21,5 +21,3 @@
   *⚡ Fun fact: ...
 
   -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CcCJeaz&layout=compact&hide_title=true&card_width=900&bg_color)
